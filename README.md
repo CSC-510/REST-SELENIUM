@@ -48,3 +48,7 @@ The code makes a call to get all a users repo.
 ```
 curl --request PATCH -H "Authorization: token YOURTOKEN" --data '{"name":"hw4","has_issues":"true"}' https://github.ncsu.edu/api/v3/repos/cjparnin/hw4
 ```
+
+### Data Collection
+
+
