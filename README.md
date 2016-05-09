@@ -57,7 +57,7 @@ curl --request GET -H "Authorization: token YOURTOKEN" https://api.github.com/us
 A more complex example: Change a repositories settings to have issue support.
 
 ```
-curl --request PATCH -H "Authorization: token YOURTOKEN" --data '{"name":"hw4","has_issues":"true"}' https://github.ncsu.edu/api/v3/repos/cjparnin/hw4
+curl --request PATCH -H "Authorization: token YOURTOKEN" --data '{"name":"hw4","has_issues":"true"}' https://api.github.com/repos/cjparnin/hw4
 ```
 
 Tips for extending.
