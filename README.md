@@ -54,7 +54,7 @@ You can also debug/implement REST api calls using `curl`.
 A simple example for getting all repos of authenicated user.
 
 ```
-curl --request GET -H "Authorization: token YOURTOKEN" https://api.github.com/user/repos"
+curl --request GET -H "Authorization: token YOURTOKEN" https://api.github.com/user/repos
 
 ```
 
