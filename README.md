@@ -125,4 +125,3 @@ We will walk through one example, and you will do the rest on your own:
 * 1. The participant count of "Frustration of Software Developers" is 55
 * 2. The total number of studies closed is 5.
 * 3. If a status of a study is open, you can click on a "Participate" button.
-* 4. You can enter text into this study (don't *actually* submit, or you can't run test again!): http://checkbox.io/studies/?id=569e667f12101f8a12000001
