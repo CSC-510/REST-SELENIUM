@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "7"
+  - "node"
+
+script:
+  - cd REST
+  - npm install
+  - npm test
