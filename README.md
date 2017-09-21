@@ -1,4 +1,5 @@
 # DataCollection
+![build](https://travis-ci.org/CSC-510/REST-SELENIUM.svg?branch=master)
 
 Data scrapping and REST apis
 
