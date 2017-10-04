@@ -1,5 +1,6 @@
 # DataCollection
 ![build](https://travis-ci.org/CSC-510/REST-SELENIUM.svg?branch=master)
+[![dependencies Status](https://david-dm.org/CSC-510/REST-SELENIUM/status.svg?path=REST)](https://david-dm.org/CSC-510/REST-SELENIUM?path=REST)
 
 Data scrapping and REST apis
 
